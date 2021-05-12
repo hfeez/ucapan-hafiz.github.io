@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
-
+@viewport {
+	width: device-width ;
+	zoom: 1.0 ;
+  }
+  
 body {
 	font-family: 'Indie Flower', cursive !important;
   background: #FDE3A7; /*CAPE HONEY*/
